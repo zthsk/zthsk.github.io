@@ -4,7 +4,7 @@ collection: publications
 type: review
 permalink: /publication/implications-of-mdl
 excerpt: 'This paper is about modeling the behavior of adversarial attack models in NLP as a complex causal mechanism and quantifying it.'
-date: "2023-11-21"
+#date: "2023-11-21"
 #venue: 'CLEAR 2024'
 #paperurl: 'https://aclanthology.org/2022.aacl-short.7'
 ---
