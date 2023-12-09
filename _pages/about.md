@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Kshitiz Tiwari, a driven and inquisitive PhD student specializing in Natural Language Processing (NLP) at the University of Arkansas, Fayetteville. Under the guidance of Dr. Lu Zhang in the Department of Electrical Engineering and Computer Science (EECS), I am at the intersection of technology and language.
+Welcome! I'm Kshitiz Tiwari, a driven and inquisitive PhD student specializing in Natural Language Processing (NLP) at the University of Arkansas, Fayetteville. Under the guidance of Dr. [Lu Zhang](http://csce.uark.edu/~lz006/) in the Department of Electrical Engineering and Computer Science  ([EECS](https://eecs.uark.edu/)), I am at the intersection of technology and language.
 
 My journey in NLP is deeply rooted in a desire to make these technologies accessible to minority languages, like my native tongue, Nepali. This goal propels my research, particularly in the areas of hate speech detection and enhancing the resilience of language-based systems against adversarial attacks. My work aims to tackle contemporary challenges and contribute to a safer, more inclusive digital world.
 

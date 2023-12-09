@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kshitiz Tiwari / PhD Student"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Kshitiz Tiwari"
 description              : &description "PhD Student at the University of Arkansas, Fayetteville. "
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg" 
   bio              : "PhD Student at the University of Arkansas, Fayetteville. "
   location         : "Fayetteville, Arkansas"
-  employer         : "University of Arkansas, Fayetteville"
+  employer         : #"University of Arkansas, Fayetteville"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=hEqZ5SIAAAAJ&hl=en"
   email            : "ktiwari@uark.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zthsk/"
+  linkedin         : "zthsk"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
