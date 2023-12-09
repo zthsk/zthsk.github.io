@@ -1,5 +1,5 @@
 ---
-type: "Conference"
+type: "conference"
 title: "Robust Hate Speech Detection via Mitigating Spurious Correlations"
 collection: publications
 permalink: /publication/robust-hate-speech-detection
