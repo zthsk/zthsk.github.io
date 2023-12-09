@@ -4,7 +4,7 @@ title: "Robust Hate Speech Detection via Mitigating Spurious Correlations"
 collection: publications
 permalink: /publication/robust-hate-speech-detection
 excerpt: 'This paper is about removing the causal connection of spuriously correlated words to develop a robust hate speech detection model.'
-date: 2022-10-01
+date: 2022-11-21
 venue: 'AACL-IJCNLP'
 paperurl: 'https://aclanthology.org/2022.aacl-short.7'
 citation: [Robust Hate Speech Detection via Mitigating Spurious Correlations](https://aclanthology.org/2022.aacl-short.7) (Tiwari et al., AACL-IJCNLP 2022)
