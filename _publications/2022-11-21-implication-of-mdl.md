@@ -1,7 +1,7 @@
 ---
-type: "conference"
 title: "Implications of Minimum Description Length for Adversarial Attack in NLP"
 collection: publications
+type: review
 permalink: /publication/implications-of-mdl
 excerpt: 'This paper is about modeling the behavior of adversarial attack models in NLP as a complex causal mechanism and quantifying it.'
 date: "2022-11-21"
