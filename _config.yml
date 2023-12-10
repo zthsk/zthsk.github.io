@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Kshitiz Tiwari"
 title_separator          : "-"
 name                     : &name "Kshitiz Tiwari"
-description              : &description "PhD Student at the University of Arkansas, Fayetteville. "
+description              : &description "Kshitiz Tiwari is a PhD student specializing in Natural Language Processing (NLP) at the University of Arkansas, Fayetteville, focused on advancing language technologies for minority languages and enhancing the resilience of language-based systems against adversarial attacks. His research delves into Generative AI, Large Language Models, and the application of causal inference to create robust and inclusive AI models, aiming to bridge linguistic gaps and shape a future of intelligent communication for all. "
 url                      : https://zthsk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zthsk.github.io"
