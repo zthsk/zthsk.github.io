@@ -1,4 +1,5 @@
 ---
+type: "article"
 title: "Implications of Minimum Description Length for Adversarial Attack in NLP"
 collection: publications
 type: review
