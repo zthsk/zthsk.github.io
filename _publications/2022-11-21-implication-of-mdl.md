@@ -4,9 +4,9 @@ collection: publications
 type: review
 permalink: /publication/implications-of-mdl
 excerpt: 'This paper is about modeling the behavior of adversarial attack models in NLP as a complex causal mechanism and quantifying it.'
-#date: "2023-11-21"
-#venue: 'CLEAR 2024'
-#paperurl: 'https://aclanthology.org/2022.aacl-short.7'
+date: "2024-04-16"
+venue: 'Entropy'
+paperurl: '[https://aclanthology.org/2022.aacl-short.7](https://www.mdpi.com/1099-4300/26/5/354)'
 authors: "Kshitiz Tiwari , Lu Zhang"
 ---
 <h3> Abstract </h3>
